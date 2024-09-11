@@ -1,0 +1,64 @@
+.empire-background {
+    background-color: red;
+    color: white;
+  }
+  
+
+  .rebel-background {
+    background-color: blue;
+    color: white;
+  }
+  
+
+  #vader {
+    font-size: 24px;
+  }
+  
+  #luke {
+    font-style: italic;
+  }
+
+
+  .soldadoImperio {
+    background-color: red;
+    border: 4px outset blue;
+    letter-spacing: 2px;
+    color: white;
+  }
+
+
+  .soldadoRebelde {
+    background-color: blue;
+    border: 4px dotted red;
+    letter-spacing: 4px;
+    color: white;
+  }
+
+  .apoyoImperio {
+    background-color: red;
+    text-align: center;
+    color: white;
+  }
+
+
+  .apoyoRebelde {
+    background-color: blue;
+    text-align: center;
+    color: white;
+  }
+
+
+  .naveImperio {
+    background-color: red;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+  }
+
+
+  .naveRebelde {
+    background-color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+  }
